@@ -1,4 +1,4 @@
-# Hi, I'm Dhruv Thakor 👋
+# Hi, I'm Dhruv Thakor 
 
 ### Full Stack Developer • Systems Builder • Curious Mind Exploring AI, Cybersecurity, Blockchain & Emerging Technologies
 
